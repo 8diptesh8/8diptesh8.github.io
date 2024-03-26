@@ -160,10 +160,11 @@
     width: 35px;
   }
   .aboutExp, .experienceCont{
-    border: 2px solid var(--silver);
+    /*border: 2px solid var(--silver);*/
     border-radius: 50px;
     padding: 20px;
     height: 100%;
+    box-shadow: 0px 12px 28px 0px rgba(0, 0, 0, 0.2), 0px 2px 4px 0px rgba(0, 0, 0, 0.1), 0px 0px 0px 1px rgba(255, 255, 255, 0.05) inset;
   }
   .aboutExp img{
     margin-bottom: 10px;
@@ -208,13 +209,15 @@
     font-size: 25px;
     color: var(--silver);
     margin-bottom: 35px;
+    margin-top: 25px;
   }
   .projectCont {
     padding: 80px 40px;
-    border: 2px solid var(--silver);
+    /*border: 2px solid var(--silver);*/
     border-radius: 20px;
     position: relative;
     height: 100%;
+    box-shadow: 0px 12px 28px 0px rgba(0, 0, 0, 0.2), 0px 2px 4px 0px rgba(0, 0, 0, 0.1), 0px 0px 0px 1px rgba(255, 255, 255, 0.05) inset;
   }
   .projectCont h3 {
     font-family: var(--fontsorab);
@@ -255,9 +258,10 @@
     justify-content: center;
     width: 50%;
     margin: auto;
-    border: 2px solid var(--silver);
+    /*border: 2px solid var(--silver);*/
     border-radius: 50px;
     padding: 20px;
+    box-shadow: 0px 12px 28px 0px rgba(0, 0, 0, 0.2), 0px 2px 4px 0px rgba(0, 0, 0, 0.1), 0px 0px 0px 1px rgba(255, 255, 255, 0.05) inset;
   }
   .contactDetails, .lkAnchor {
     display: flex;
