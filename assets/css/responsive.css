@@ -97,6 +97,13 @@
 	}
 }
 
+@media only screen and (max-width: 767.9px){
+.container {
+    overflow-x: clip;
+    padding: 0 20px;
+  }
+}
+
 @media screen and (min-width: 1200px) and (max-width: 1400px){
 	.profileSection .profileImg{
 		height: 330px;
