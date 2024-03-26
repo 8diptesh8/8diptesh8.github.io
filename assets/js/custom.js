@@ -12,3 +12,7 @@ $(document).ready(function(){
         }, 500);
     });
 });
+
+AOS.init();
+
+
