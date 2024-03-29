@@ -101,11 +101,17 @@
     transition: all 0.5s ease; 
     opacity: 0;
 }
-
-
 .mainMenu.navbar-expand-lg .navbar-nav .nav-item:hover a:after {
   width: calc(100% - 80px);
   opacity: 1;
+}
+.brandLogo {
+    display: flex;
+    align-items: center;
+}
+.brandLogo img{
+  width: 70px;
+  margin-right: -4px;
 }
 
   /*profile Section*/
