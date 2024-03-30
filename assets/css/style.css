@@ -178,6 +178,8 @@
 /* This targets the text color change on hover */
 .profileBtn:hover a.profileCV {
     color: var(--white);
+    background: var(--black);
+    transition: all 0.5s ease;
 }
 
 .profileBtn a:after {
