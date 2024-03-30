@@ -178,7 +178,6 @@
 /* This targets the text color change on hover */
 .profileBtn:hover a.profileCV {
     color: var(--white);
-    background: var(--black);
 }
 
 .profileBtn a:after {
